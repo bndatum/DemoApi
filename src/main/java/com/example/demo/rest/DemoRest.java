@@ -14,7 +14,7 @@ public class DemoRest {
 	 */
 	@GetMapping(path="/getHolaMundo")
     public String getHolaMundo() {
-        return "Hola Mundo";
+        return "Hola Mundo!!";
 	}
 	
 	
