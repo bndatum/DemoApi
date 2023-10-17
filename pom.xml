@@ -3,20 +3,20 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>dev.snowdrop</groupId>
-		<artifactId>snowdrop-dependencies</artifactId>
-		<version>2.4.9.Final</version>
+		zxczxczxc<artifactId>snowdrop-dependencies</artifactId>
+		zxczxczxczxczxc<version>2.4.9.Final</version>
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>demo</name>
+	<name>demo</name>zxczxc
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
 	<repositories>
-		<repository>
+		<repository>zxczxc
 			<id>redhat-ga</id>
 			<name>Red Hat GA Repository</name>
 			<url>https://maven.repository.redhat.com/ga/</url>
